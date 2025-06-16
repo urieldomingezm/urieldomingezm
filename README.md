@@ -60,15 +60,6 @@
   <img src="https://img.shields.io/badge/Solaris-FF6600?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
----
-
-## 📌 Proyectos Destacados
-
-- **Aplicación móvil con React Native:** Sistema de gestión para pequeñas empresas  
-- **Plataforma E-commerce:** Desarrollada con Ruby on Rails y React  
-- **API REST con Django:** Sistema de reservas para hoteles  
-
----
 
 ## 📫 Contacto
 
