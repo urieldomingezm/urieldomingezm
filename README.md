@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Uriel+Domínguez;Desarrollador+Full+Stack;Especialista+en+Mobile;Entusiasta+DevOps" alt="Título animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Uriel+Domínguez;Desarrollador+Full+Stack;Especialista+en+Mobile;Entusiasta+DevOps" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=urieldomingezm&label=Profile+Views&color=00C4FF&style=flat" alt="Visitas al perfil" />
+  <img src="https://komarev.com/ghpvc/?username=urieldomingezm&label=Profile+Views&color=00C4FF&style=flat" />
   <a href="https://github.com/urieldomingezm?tab=followers">
-    <img src="https://img.shields.io/github/followers/urieldomingezm?label=Followers&style=social" alt="Seguidores">
+    <img src="https://img.shields.io/github/followers/urieldomingezm?label=Followers&style=social">
   </a>
 </div>
 
