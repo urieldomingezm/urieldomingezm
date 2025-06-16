@@ -2,7 +2,7 @@ Hola, soy Uriel Domínguez 👋
 Bienvenido/a a mi perfil de GitHub. Soy un apasionado del desarrollo de software y me encanta aprender nuevas tecnologías.
 
 🔥 Estadísticas de GitHub
-https://github-readme-stats.vercel.app/api?username=urieldomingezm&show_icons=true&theme=radical
+[https://github-readme-stats.vercel.app/api?username=urieldomingezm&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=urieldomingezm&show_icons=true&theme=radical)
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=urieldomingezm&layout=compact&theme=radical
 
