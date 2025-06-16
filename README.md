@@ -104,7 +104,7 @@
   <img src="https://img.shields.io/badge/Solaris-FF6600?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-## 📊 Estadísticas Adicionales
+## 📊 Estadísticas
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=urieldomingezm&theme=radical" width="32%"/>
