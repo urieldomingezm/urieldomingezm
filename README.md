@@ -135,7 +135,7 @@
   <a href="mailto:urielmedina7u7@outlook.com">
     <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://urieldomingezm.github.io/CV-ING-MEDINA/" target="_blank">
+  <a href="https://cv-uriel-nine.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
