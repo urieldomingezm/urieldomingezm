@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/urieldomingezm/urieldomingezm/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-<h1 align="center">Hola, soy Uriel medina 👨‍💻</h1>
+<h1 align="center">Hola, soy DevMedina 👨‍💻</h1>
 <h3 align="center">Desarrollador Full Stack & Mobile | DevOps</h3>
 
 <!-- Estadísticas principales -->
