@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://cv-uriel-nine.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-00C4FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+<a href="https://devmedina.is-a.dev/"><img src="https://img.shields.io/badge/Portafolio-00C4FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 <a href="mailto:urielmedina7u7@outlook.com"><img src="https://img.shields.io/badge/Email-7B2FF7?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=urieldomingezm&label=Visitas&color=00C4FF&style=for-the-badge" />
 
